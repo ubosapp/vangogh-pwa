@@ -1,0 +1,15 @@
+{
+  "id": "./",
+  "name": "Van Gogh, da vicino",
+  "short_name": "Van Gogh",
+  "description": "Cinque opere celebri di Vincent van Gogh, esplorabili in italiano e in inglese.",
+  "lang": "it",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f2ecdf",
+  "theme_color": "#f2ecdf",
+  "icons": [
+    { "src": "./assets/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
